@@ -38,3 +38,8 @@ The project is designed for **step-by-step learning** and does not assume prior 
 ## License
 MIT License
 
+## Sponsorship
+
+This project may receive financial or material support from individuals or organizations who believe in open education and open-source learning.
+
+Sponsors do not direct development, control contributors, or receive exclusive benefits. All contributions are voluntary and educational.
