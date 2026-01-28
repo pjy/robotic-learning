@@ -1,32 +1,40 @@
-# robotic-learning
-learn electronics, software and mechanics for robotic education 
+# Open Heart Signal Learning Project
 
-# Open Technology Learning Project
+This repository is an **open-source learning project** focused on understanding
+embedded systems, data acquisition, and basic signal processing using
+Arduino, ESP32, and Python on Linux.
 
-This is an open-source project created for **learning, experimentation, and collaboration** in electronics and software development.
+The project is designed for **step-by-step learning** and does not assume prior experience.
 
-## Purpose
-The goal of this project is educational:
-- to help learners explore real-world technology concepts
-- to practice problem-solving and design
-- to learn how open-source collaboration works
+## Learning Path
 
-This project is **not a commercial product** and is **not operated as a business**.
+### Step 1: Basic Hardware Control
+- Connect an Arduino or ESP32 to a Linux computer
+- Install and run Arduino IDE on Linux
+- Control the onboard LED (blink, timing, and logic)
 
-## Participation
-- Contributions are **voluntary**
-- There are **no required tasks, hours, or deadlines**
-- Participants may stop contributing at any time
-- Contributions are made for learning and community purposes
+### Step 2: Sensor Interface
+- Connect a MAX301 heart-rate sensor
+- Read raw sensor values
+- Understand basic I2C communication
 
-## Mentorship
-Some contributors may receive informal guidance, feedback, or suggestions from more experienced participants.  
-This guidance is educational in nature and does not create any obligation.
+### Step 3: Data Collection
+- Stream raw heartbeat waveform data over serial
+- Read serial data on Ubuntu using Python
+- Store and visualize the waveform
 
-## No Employment Relationship
-- No compensation is provided
-- No employment, internship, or contractor relationship is created
-- Contributors are not performing services for anyone
+### Step 4: Signal Processing
+- Analyze raw heartbeat data
+- Extract fundamental frequency
+- Compute 2nd and 3rd harmonics
+- Visualize frequency-domain results
+
+## Project Philosophy
+- Learning-first and experimentation-oriented
+- Contributions are voluntary
+- Code is for education and exploration
+- Mistakes are part of the process
 
 ## License
-This project is licensed under the MIT License (see LICENSE file).
+MIT License
+

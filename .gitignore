@@ -1,0 +1,63 @@
+# =========================
+# Arduino
+# =========================
+*.hex
+*.elf
+*.bin
+*.map
+*.eep
+*.lst
+*.tmp
+*.log
+
+# Arduino IDE folders
+.arduino15/
+arduino_build_*/
+arduino_cache_*/
+
+# =========================
+# ESP32 / PlatformIO
+# =========================
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# =========================
+# Logs & data
+# =========================
+*.csv
+*.dat
+*.log
