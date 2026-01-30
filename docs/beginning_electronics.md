@@ -10,5 +10,5 @@ https://lastminuteengineers.com/max30102-pulse-oximeter-heart-rate-sensor-arduin
 
 search term: don't mix 5v 3.3v
 
-Electronics: Lesson 1 - The Fundamentals
+Electronics: Lesson 1 - The Fundamentals  
 https://www.youtube.com/watch?v=SGvOmwZvhVk
