@@ -1,3 +1,6 @@
+How to use a multimeter  
+https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter/all
+
 Soldering   
 https://www.youtube.com/watch?v=GAjuZoyAhgI
 https://www.youtube.com/watch?v=Qps9woUGkvI&t=12s
